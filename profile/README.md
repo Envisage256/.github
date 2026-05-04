@@ -6,7 +6,7 @@ We are a student-led innovation team passionate about technology, sustainability
 <img src="Team Picture.png">
 
 ## Join The Journey 📺
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <a href="https://envisageweb.netlify.app">
