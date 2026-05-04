@@ -8,70 +8,11 @@ We are a student-led innovation team passionate about technology, sustainability
 
 ## Join The Journey 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://envisageweb.netlify.app">
-        <img src="https://img.icons8.com/color/48/domain.png" width="28"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://envisageweb.netlify.app">https://envisageweb.netlify.app</a>
-    </td>
-  </tr>
+Stay connected with Envisage across all platforms: 
 
-  <tr>
-    <td align="center">
-      <a href="https://github.com/envisage256">
-        <img src="https://img.icons8.com/color/48/github--v1.png" width="28"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/envisage256">envisage256</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://youtube.com/@envisage256">
-        <img src="https://img.icons8.com/color/48/youtube-play.png" width="28"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://youtube.com/@envisage256">@envisage256</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://instagram.com/envisage256">
-        <img src="https://img.icons8.com/color/48/instagram-new.png" width="28"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/envisage256">envisage256</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://tiktok.com/@envisage256">
-        <img src="https://img.icons8.com/color/48/tiktok.png" width="28"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://tiktok.com/@envisage256">@envisage256</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://x.com/envisage256">
-        <img src="https://img.icons8.com/color/48/twitterx.png" width="28"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://x.com/envisage256">envisage256</a>
-    </td>
-  </tr>
-</table>
+[![Website](https://img.shields.io/badge/Website-envisageweb.netlify.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://envisageweb.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-envisage256-181717?style=for-the-badge&logo=github)](https://github.com/envisage256)
+[![YouTube](https://img.shields.io/badge/YouTube-@envisage256-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@envisage256)
+[![Instagram](https://img.shields.io/badge/Instagram-envisage256-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/envisage256)
+[![TikTok](https://img.shields.io/badge/TikTok-@envisage256-000000?style=for-the-badge&logo=tiktok)](https://tiktok.com/@envisage256)
+[![X](https://img.shields.io/badge/X-envisage256-000000?style=for-the-badge&logo=twitter)](https://x.com/envisage256)
