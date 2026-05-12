@@ -3,15 +3,41 @@
 We are a student-led innovation team passionate about technology, sustainability, and problem-solving. From building digital systems that improve school life, to raising awareness about issues concerning the community, to showcasing groundbreaking ICT projects at major exhibitions—our mission is simple: create solutions that matter. Join us on this journey as we build, inspire, and transform ideas into reality.
 
 ## Welcome to Envisage! The Future Begins Here. 
-<img src="Team Picture.png">
+<img src="Team Picture.jpg">
 
 ## Join The Journey 
 
 Stay connected with Envisage across all platforms: 
 
-[![Website](https://img.shields.io/badge/Website-envisageweb.netlify.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://envisageweb.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-envisage256-181717?style=for-the-badge&logo=github)](https://github.com/envisage256)
-[![YouTube](https://img.shields.io/badge/YouTube-@envisage256-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@envisage256)
-[![Instagram](https://img.shields.io/badge/Instagram-envisage256-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/envisage256)
-[![TikTok](https://img.shields.io/badge/TikTok-@envisage256-000000?style=for-the-badge&logo=tiktok)](https://tiktok.com/@envisage256)
-[![X](https://img.shields.io/badge/X-envisage256-000000?style=for-the-badge&logo=twitter)](https://x.com/envisage256)
+<a href="https://envisageweb.netlify.app">
+  <img src="https://img.icons8.com/color/48/internet--v1.png" width="42" height="42" alt="Website"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/envisage256">
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" height="40" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://youtube.com/@envisage256">
+  <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40" alt="YouTube"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/envisage256">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://tiktok.com/@envisage256">
+  <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="40" height="40" alt="TikTok"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/envisage256">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="40" height="40" alt="X"/>
+</a>
+
+## Meet The Team
+
+<p>
+  <img src="https://github.com/asher-not-king.png" width="50px;"/>
+  <img src="https://github.com/baltz86.png" width="50px;"/>
+  <img src="https://github.com/Blesso125.png" width="50px;"/>
+  <img src="https://github.com/JAFI13.png" width="50px;"/>
+</p>
