@@ -2,9 +2,6 @@
 
 We are a student-led innovation team passionate about technology, sustainability, and problem-solving. From building digital systems that improve school life, to raising awareness about issues concerning the community, to showcasing groundbreaking ICT projects at major exhibitions—our mission is simple: create solutions that matter. Join us on this journey as we build, inspire, and transform ideas into reality.
 
-## Welcome to Envisage! The Future Begins Here. 
-<img src="Team Picture.jpg" width="100%">
-
 ## Join The Journey 
 
 Stay connected with Envisage across all platforms: 
